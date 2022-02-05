@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://github.com/Vaman93/Vaman93/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaman93&theme=radical)
