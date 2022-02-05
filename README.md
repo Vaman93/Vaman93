@@ -11,7 +11,6 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 🧑 I’m currently partcipating in as much Hackathons as I can
 - 🌱 I’m currently Masai School Student
 - 🌱 I’m FullStack developer
-- 🌱 I’m currently Technical Lead At Girlscript Surat
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate and make any tech community
 - 😄 Pronouns He/Him
