@@ -1,5 +1,9 @@
 ### Hi there 👋 I am Vaman
 
+**Just a Introduction:**
+
+Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love Listening justin bieber Songs and playing Football.
+
 **Talking about Personal Stuffs:**
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
