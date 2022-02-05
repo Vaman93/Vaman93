@@ -4,6 +4,8 @@
 
 Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love Listening justin bieber Songs and playing Football.
 
+</br>
+
 **Talking about Personal Stuffs:**
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -18,9 +20,9 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 
 **Learning Stack:**
 
-- 🌱 Html, Css, JS, Bootstrap, React
-- 🌱 NodeJs, Express, MongoDb, SQL,
-- 🌱 GraphQL, RelayJs
+- 🌱 Html, Css, JS, Kalaam, Bootstrap, React,
+- 🌱 NodeJs, Express, MongoDb
+- 🌱 Git
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
