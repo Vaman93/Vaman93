@@ -6,7 +6,9 @@ Hi, I'm Vaman Ganbote, A Student and Lerner ğŸš€ from Pune, India, currently ğŸ’
 
 </br>
 </hr>
-<h2 align="center">Talking about Personal Stuffs </h2>
+<h2 align="center">Talking about Personal Stuffs 
+  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50">
+</h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
