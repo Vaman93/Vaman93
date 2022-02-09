@@ -1,13 +1,15 @@
 ### Hi there 👋 I am Vaman
 
-**Just a Introduction:**
+
+<h2 align="center">Just a Introduction
+</h2>
 
 Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love Listening justin bieber Songs and playing Football.
 
 </br>
 </hr>
 <h2 align="center">Talking about Personal Stuffs 
-  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50">
+
 </h2>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -23,7 +25,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 <h1></h1>
 <h1></h1>
 <p align="center">
-  <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+  <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
 <div align="center">
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
