@@ -5,10 +5,10 @@
 Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love Listening justin bieber Songs and playing Football.
 
 </br>
+</hr>
+<h2 align="center">Talking about Personal Stuffs </h2>
 
-<h1></h1>
-**Talking about Personal Stuffs:**
-
+<h2></h2>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🧑 I’m currently partcipating in as much Hackathons as I can
@@ -18,7 +18,6 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 👯 I’m looking to collaborate and make any tech community
 - 😄 Pronouns He/Him
 - 📫 How to reach me:vamanganbote93@gmail.com
-
 
 <h1></h1>
 <h1></h1>
@@ -48,6 +47,5 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaman93&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaman93&theme=tokyonight)
-
 
 <hr>
