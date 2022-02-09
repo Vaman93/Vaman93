@@ -18,7 +18,8 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 😄 Pronouns He/Him
 - 📫 How to reach me:vamanganbote93@gmail.com
 
-
+<hr/>
+<h1></h1>
 <p>
   **Learning Stack:**
 <div align="center">
