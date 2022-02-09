@@ -23,7 +23,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner ğŸš€ from Pune, India, currently ğŸ’
 <h1></h1>
 <h1></h1>
 <p align="center">
-  **Learning Stack:**
+  <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 <div align="center">
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
