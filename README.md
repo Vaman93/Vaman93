@@ -6,6 +6,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 
 </br>
 
+<h1></h1>
 **Talking about Personal Stuffs:**
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -18,9 +19,10 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 😄 Pronouns He/Him
 - 📫 How to reach me:vamanganbote93@gmail.com
 
-<hr/>
+
 <h1></h1>
-<p>
+<h1></h1>
+<p align="center">
   **Learning Stack:**
 <div align="center">
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
