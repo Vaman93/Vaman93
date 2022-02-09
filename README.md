@@ -18,11 +18,19 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 😄 Pronouns He/Him
 - 📫 How to reach me:vamanganbote93@gmail.com
 
-**Learning Stack:**
 
-- 🌱 Html, Css, JS, Kalaam, Bootstrap, React,
-- 🌱 NodeJs, Express, MongoDb
-- 🌱 Git
+<p>
+  **Learning Stack:**
+<div align="center">
+   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
+   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
+   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=d1a01f&labelColor=282828">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
+   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+</p>
 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
@@ -38,7 +46,5 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaman93&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaman93&theme=tokyonight)
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Vaman93&theme=redical">
-</p> 
+
 <hr>
