@@ -8,7 +8,6 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 </hr>
 <h2 align="center">Talking about Personal Stuffs </h2>
 
-<h2></h2>
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 🧑 I’m currently partcipating in as much Hackathons as I can
