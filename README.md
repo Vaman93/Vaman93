@@ -32,6 +32,9 @@ Hi, I'm Vaman Ganbote, A Student and Lerner ğŸš€ from Pune, India, currently ğŸ’
 <a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a> -->
+  <a href="vamanganbote93@gmail.com">
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  </a>
 
 <a href="https://www.linkedin.com/in/vaman-ganbote/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
