@@ -22,7 +22,32 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 😄 Pronouns He/Him
 - 📫 How to reach me:vamanganbote93@gmail.com
 
-<h1></h1>
+
+<div align="center">
+<p align="center">Let's connect!</p>
+<a href="https://twitter.com/VamanGanbote93?t=kYKZsc4OBSFG7oLL_cJpBg&s=09">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<!-- 
+<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a> -->
+
+<a href="https://www.linkedin.com/in/vaman-ganbote/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- 
+<a href="https://www.facebook.com/vaibhav.darwekar.50">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+ -->
+</div>
+
+
+
+
 <h1></h1>
 <p align="center">
   <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
