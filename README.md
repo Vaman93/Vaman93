@@ -4,7 +4,7 @@
 <h2 align="center">Just a Introduction
 </h2>
 
-Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love Listening justin bieber Songs and playing Football.
+Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 
 </br>
 </hr>
@@ -20,7 +20,6 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate and make any tech community
 - 😄 Pronouns He/Him
-- 📫 Portfolio - "https://vaman-dev.netlify.app/"
 
 
 <div align="center">
@@ -76,6 +75,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 </div>
 </p>
 
+<!-- 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
@@ -86,6 +86,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, currently �
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
+-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vaman93&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaman93&theme=tokyonight)
