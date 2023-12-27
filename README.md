@@ -14,8 +14,6 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 🧑 I’m currently partcipating in as much Hackathons as I can
-- 🌱 I’m currently Masai School Student
 - 🌱 I’m FullStack developer
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate and make any tech community
