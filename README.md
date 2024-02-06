@@ -48,9 +48,8 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 
 
 
-<h1></h1>
-<h1></h1>
-<h1></h1>
+</br>
+</br>
 <h1></h1>
 <p align="center">
 <a align="right" href="https://app.daily.dev/vamanganbote"><img align="right" src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=m5l" width="250" alt="Vaman Ganbote's Dev Card"/></a>
@@ -61,21 +60,26 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
+      <img src="https://img.shields.io/badge/React Js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
+       <img src="https://img.shields.io/badge/Next js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
+      <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=TypeScript&logoColor=61DAFB&labelColor=282828">
+        
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
+   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=61DAFB&labelColor=282828">
+
    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+         <img src="https://img.shields.io/badge/tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB&labelColor=282828">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
   </br>
     </br>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
  
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+
 </div>
 
 </p>
