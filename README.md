@@ -49,6 +49,8 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 
 
 <h1></h1>
+<h1></h1>
+<h1></h1>
 <p align="center">
   <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
 <div align="center">
