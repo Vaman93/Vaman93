@@ -47,12 +47,11 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 
 
 
-
 </br>
 </br>
 <h1></h1>
 <p align="center">
-<a align="right" href="https://app.daily.dev/vamanganbote"><img align="right" src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=m5l" width="250" alt="Vaman Ganbote's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/vamanganbote"><img align="right" src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=9t7" width="250" alt="Vaman Ganbote's Dev Card"/></a>
   <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
   
 <div align="center">
