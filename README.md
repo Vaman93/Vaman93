@@ -54,7 +54,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 <p align="center">
   <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
   
-<div align="right">
+<div align="center">
 
    <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
    <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
@@ -75,7 +75,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
   
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </div>
-<img align="left" src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=m5l" width="300" alt="Vaman Ganbote's Dev Card"/>
+
 </p>
 
 <!-- 
