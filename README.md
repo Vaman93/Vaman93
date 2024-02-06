@@ -77,7 +77,7 @@ Hi, I'm Vaman Ganbote, A Student and Lerner 🚀 from Pune, India, I'm a passion
 </div>
 </p>
 
-  <a align="center" href="https://app.daily.dev/vamanganbote"><img src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=m5l" width="300" alt="Vaman Ganbote's Dev Card"/></a>
+  <a align="center" href="https://app.daily.dev/vamanganbote"><img align="center" src="https://api.daily.dev/devcards/fe838f3d69ab49d08907bc98468a7a25.png?r=m5l" width="300" alt="Vaman Ganbote's Dev Card"/></a>
 
 
 <!-- 
